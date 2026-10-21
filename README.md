@@ -9,7 +9,6 @@ Protótipo acadêmico da Fase 5 de IHC: consulta de débitos de veículo e pagam
 
 O projeto usa componentes nativos do Proto.io. Há 11 telas: início, consulta, ajuda Renavam, débitos, revisão, Pix aguardando, Pix expirado, confirmação, erro de dados, seleção vazia e ausência de débitos.
 
-**Status da entrega:** versão em construção. A validação final do roteamento condicional, dos cálculos e da seleção de débitos está pendente. O link acima é o player do projeto e pode exigir acesso à conta; o link público de compartilhamento para participantes ainda precisa ser gerado e verificado. Não iniciar a coleta de testes antes de concluir o checklist técnico.
 
 ## Documentos
 
